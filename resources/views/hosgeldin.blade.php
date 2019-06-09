@@ -1,0 +1,1 @@
+<h1> HOŞ GELDİN, {{$name}}</h1>
